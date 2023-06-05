@@ -1,13 +1,13 @@
 # BiciMAD
 # BICIMAD Data Analysis
 
-This repository contains data and scripts related to the analysis of BICIMAD, a public bicycle sharing system in Madrid, Spain. The repository includes two files, `2017_info.csv` and `2018_info.csv`, which contain the extracted information from the registers of BICIMAD for the years 2017 and 2018, respectively. Additionally, the repository includes a PDF document, `Memoria_Práctica_BICIMAD___PRPA.pdf`, which provides a detailed explanation of the study and the business case, showcasing the insights obtained from the analysis.
+This repository contains data and scripts related to the analysis of BICIMAD, a public bicycle sharing system in Madrid, Spain. The repository includes two files, `2017_info` and `2018_info`, which contain the extracted information from the registers of BICIMAD for the years 2017 and 2018, respectively. Additionally, the repository includes a PDF document, `Memoria_Práctica_BICIMAD___PRPA.pdf`, which provides a detailed explanation of the study and the business case, showcasing the insights obtained from the analysis.
 
 ## Files
 
-- `2017_info.csv`: This file contains the data extracted from the registers of BICIMAD for the year 2017. It includes various attributes such as timestamp, user ID, bicycle ID, station ID, and other relevant information.
+- `2017_info`: This file contains the data extracted from the registers of BICIMAD for the year 2017. It includes various attributes such as timestamp, user ID, bicycle ID, station ID, and other relevant information.
 
-- `2018_info.csv`: This file contains the data extracted from the registers of BICIMAD for the year 2018. Similar to the previous file, it includes timestamp, user ID, bicycle ID, station ID, and additional details.
+- `2018_info`: This file contains the data extracted from the registers of BICIMAD for the year 2018. Similar to the previous file, it includes timestamp, user ID, bicycle ID, station ID, and additional details.
 
 - `Memoria_Práctica_BICIMAD___PRPA.pdf`: This PDF document provides a comprehensive overview of the study conducted on BICIMAD data. It includes an explanation of the data analysis process, methodologies used, and the insights gained from the analysis. The document also presents a business case based on the findings.
 
